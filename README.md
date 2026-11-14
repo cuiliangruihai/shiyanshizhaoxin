@@ -1,3 +1,3 @@
 学号_名字
 
-把文件写在submission
+把文件发在submission
